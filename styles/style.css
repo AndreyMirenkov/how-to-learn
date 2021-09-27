@@ -50,7 +50,7 @@ z-index: 2;
   text-decoration: none;
 }
 .header__link::after{
-  content: "\2192"
+  content: "\2192";
 }
 .header__link:visited{
   color:#2f80ed;
@@ -185,8 +185,8 @@ color: red;
   z-index: 1;
 }
 .feynman__margin{
-  margin-top: 100px; 
-  margin-bottom:70px;
+  margin-top: 100px;
+  margin-bottom: 70px;
 }
 .feynman__subtitle{
 margin: 0;
