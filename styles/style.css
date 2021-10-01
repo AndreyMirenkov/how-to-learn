@@ -89,6 +89,7 @@
   align-items: baseline;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 100px;
 }
 .two-columns__brief {
   width: 175px;
@@ -96,7 +97,6 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
-  margin: 100px 0 0;
 }
 
 .two-columns__main-text {
