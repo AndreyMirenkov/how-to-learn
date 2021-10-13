@@ -1,0 +1,17 @@
+.khan__buy-link{
+    display: flex;
+    line-height: 42px;
+    font-size: 30px;
+    text-decoration: none;
+    align-self: baseline;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+.khan__buy-link::after {
+    content: "\2192";
+}
+.khan__buy-link:hover{
+    opacity: 0.4;
+}
