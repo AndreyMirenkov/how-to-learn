@@ -4,6 +4,7 @@
     font-size: 30px;
     text-decoration: none;
     align-self: baseline;
+    color: #2f80ed;
     opacity: 1;
     transition-property: opacity;
     transition-duration: 0.5s;
